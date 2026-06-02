@@ -11,5 +11,5 @@ gallery:
     image_path: /assets/images/japantown1.jpeg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-    ---
-    {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+---
+{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
